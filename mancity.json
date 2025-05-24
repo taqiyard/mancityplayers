@@ -15,7 +15,7 @@
             "Position": "Defender",
             "International": "Uzbekistan",
             "Team": "Manchester City",
-            "Poster": "https://i.postimg.cc/d3Z87ykm/walker.png"
+            "Poster": "https://www.mancity.com/meta/media/2jddpdon/akweb.png"
         },
         {
             "no": "3",
@@ -24,7 +24,7 @@
             "Position": "Defender",
             "International": "Portugal",
             "Team": "Manchester City",
-            "Poster": "https://i.postimg.cc/0jJqXYzB/dias.png"
+            "Poster": "https://www.mancity.com/meta/media/0wdjb5yh/ruben-dias.png"
         },
         {
             "no": "5",
@@ -33,7 +33,7 @@
             "Position": "Defender",
             "International": "England",
             "Team": "Manchester City",
-            "Poster": "https://i.postimg.cc/7L1P6Rhb/stones.png"
+            "Poster": "https://www.mancity.com/meta/media/0wdjb5yh/john-stones.png"
         },
         {
             "no": "9",
@@ -42,16 +42,16 @@
             "Position": "Forward",
             "International": "Norway",
             "Team": "Manchester City",
-            "Poster": "https://i.postimg.cc/Yq5rzWrT/haaland.png"
+            "Poster": "https://www.mancity.com/meta/media/0wdjb5yh/erling-haaland.png"
         },
         {
-            "no": "21",
+            "no": "19",
             "name": "Ilkay Gündogan",
             "birth_date": "1990-10-24",
             "Position": "Midfielder",
             "International": "Germany",
             "Team": "Manchester City",
-            "Poster": "https://i.postimg.cc/mrZfchYN/gundogan.png"
+            "Poster": "https://www.mancity.com/meta/media/0wdjb5yh/gundogan.png"
         },
         {
             "no": "7",
@@ -60,7 +60,7 @@
             "Position": "Forward",
             "International": "Egypt",
             "Team": "Manchester City",
-            "Poster": "https://i.postimg.cc/J4H8bMBK/jesus.png"
+            "Poster": "https://www.mancity.com/meta/media/0wdjb5yh/marmoush_profile.png"
         },
         {
             "no": "10",
@@ -69,7 +69,7 @@
             "Position": "Midfielder",
             "International": "England",
             "Team": "Manchester City",
-            "Poster": "https://i.postimg.cc/c4QpQZfQ/grealish.png"
+            "Poster": "https://www.mancity.com/meta/media/suslwfrs/jack-grealish.png"
         },
         {
             "no": "17",
@@ -78,7 +78,7 @@
             "Position": "Midfielder",
             "International": "Belgium",
             "Team": "Manchester City",
-            "Poster": "https://i.postimg.cc/g0KHqBpY/debruyne.png"
+            "Poster": "https://www.mancity.com/meta/media/suslwfrs/kevin-de-bruye.png"
         },
         {
             "no": "47",
@@ -87,7 +87,7 @@
             "Position": "Midfielder",
             "International": "England",
             "Team": "Manchester City",
-            "Poster": "https://i.postimg.cc/9fFMqWfq/foden.png"
+            "Poster": "https://www.mancity.com/meta/media/suslwfrs/phil-foden.png"
         }
     ]
 }
