@@ -1,0 +1,93 @@
+{
+    "result": [{
+            "no": "1",
+            "name": "Ederson Moraes",
+            "birth_date": "1993-08-17",
+            "Position": "Goalkeeper",
+            "International": "Brazil",
+            "Team": "Manchester City",
+            "Poster": "https://i.postimg.cc/Zn7C68Hd/ederson.png"
+        },
+        {
+            "no": "45",
+            "name": "Abdukodir Khusanov",
+            "birth_date": "2004-02-29",
+            "Position": "Defender",
+            "International": "Uzbekistan",
+            "Team": "Manchester City",
+            "Poster": "https://i.postimg.cc/d3Z87ykm/walker.png"
+        },
+        {
+            "no": "3",
+            "name": "Ruben Dias",
+            "birth_date": "1997-05-14",
+            "Position": "Defender",
+            "International": "Portugal",
+            "Team": "Manchester City",
+            "Poster": "https://i.postimg.cc/0jJqXYzB/dias.png"
+        },
+        {
+            "no": "5",
+            "name": "John Stones",
+            "birth_date": "1994-05-28",
+            "Position": "Defender",
+            "International": "England",
+            "Team": "Manchester City",
+            "Poster": "https://i.postimg.cc/7L1P6Rhb/stones.png"
+        },
+        {
+            "no": "9",
+            "name": "Erling Haaland",
+            "birth_date": "2000-07-21",
+            "Position": "Forward",
+            "International": "Norway",
+            "Team": "Manchester City",
+            "Poster": "https://i.postimg.cc/Yq5rzWrT/haaland.png"
+        },
+        {
+            "no": "21",
+            "name": "Ilkay Gündogan",
+            "birth_date": "1990-10-24",
+            "Position": "Midfielder",
+            "International": "Germany",
+            "Team": "Manchester City",
+            "Poster": "https://i.postimg.cc/mrZfchYN/gundogan.png"
+        },
+        {
+            "no": "7",
+            "name": "Omar Marmoush",
+            "birth_date": "1999-02-07",
+            "Position": "Forward",
+            "International": "Egypt",
+            "Team": "Manchester City",
+            "Poster": "https://i.postimg.cc/J4H8bMBK/jesus.png"
+        },
+        {
+            "no": "10",
+            "name": "Jack Grealish",
+            "birth_date": "1995-09-10",
+            "Position": "Midfielder",
+            "International": "England",
+            "Team": "Manchester City",
+            "Poster": "https://i.postimg.cc/c4QpQZfQ/grealish.png"
+        },
+        {
+            "no": "17",
+            "name": "Kevin De Bruyne",
+            "birth_date": "1991-06-28",
+            "Position": "Midfielder",
+            "International": "Belgium",
+            "Team": "Manchester City",
+            "Poster": "https://i.postimg.cc/g0KHqBpY/debruyne.png"
+        },
+        {
+            "no": "47",
+            "name": "Phil Foden",
+            "birth_date": "2000-05-28",
+            "Position": "Midfielder",
+            "International": "England",
+            "Team": "Manchester City",
+            "Poster": "https://i.postimg.cc/9fFMqWfq/foden.png"
+        }
+    ]
+}
